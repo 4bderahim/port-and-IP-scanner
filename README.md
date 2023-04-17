@@ -8,12 +8,12 @@ usage:
 
 example:
 
-  python port_and_IP_scanner.py www.hackthissite.org
+  python port_and_IP_scanner.py hackthissite .org
   
   
   
 NOTE:
-  this script is for educational purposes only!
+  this is for educational purposes only!
   
   
   
