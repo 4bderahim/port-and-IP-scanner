@@ -1,4 +1,4 @@
-#4BDERAHIM
+#
 import socket
 import os
 import sys
