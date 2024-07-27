@@ -10,12 +10,5 @@ example:
 
   python port_and_IP_scanner.py hackthissite .org
   
-  
-  
-NOTE:
-  this is for educational purposes only!
-  
-  
-  
-  
 
+  
